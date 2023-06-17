@@ -29,7 +29,8 @@ Before running the notebook, make sure you have the following:
   
    ```shell
    jupyter notebook
-5. In the Jupyter Notebook interface, open the stock_analysis.ipynb file.
+5. In the Jupyter Notebook interface, open the Stock Data Analysis and Trading Signal Generation.ipynb
+ file.
 
 6. Before running the notebook, make sure to set your Alpha Vantage API key in the ScriptData class. Replace 'YOUR_API_KEY' with your actual API key.
 
